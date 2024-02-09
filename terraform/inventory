@@ -1,0 +1,13 @@
+[webservers]
+
+jenkins-master-1   ansible_host=158.160.107.64
+
+[databases]
+
+jenkins-agent-01   ansible_host=158.160.110.206
+
+jenkins-master-01   ansible_host=158.160.38.101
+
+[clickhouse-01]
+  
+clickhouse-01   ansible_host=51.250.87.216
