@@ -7,9 +7,18 @@
 3. Запустить и проверить работоспособность.
 4. Сделать первоначальную настройку.
 
+настройка jenkins
+
+![monitoring](https://github.com/12sergey12/9.4_Jenkins/blob/main/1j.png)
+
+![monitoring](https://github.com/12sergey12/9.4_Jenkins/blob/main/2j.png)
+
+
 ## Основная часть
 
 1. Сделать Freestyle Job, который будет запускать `molecule test` из любого вашего репозитория с ролью.
+
+при запуске сборки выдает приличный список ошибок
 
 ```
 Started by user admin
